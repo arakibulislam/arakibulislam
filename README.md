@@ -1,5 +1,5 @@
 
-<img alt="Night Coding" src="https://github.com/arakibulislam/aralibulislam/raw/main/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Akash</h2>
+<h1 align="center">Hi , I'm Akash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Akash -->
 
