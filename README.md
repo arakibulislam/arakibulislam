@@ -66,7 +66,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arakibulislam&theme=swift" alt="arakibulislam" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arakibulislam&theme=calm" alt="arakibulislam" /></p>
 
 
 
