@@ -4,7 +4,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Akash -->
 <img alt="Avatar" src="https://instagram.fdac31-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p750x750/80650065_168451210915450_4172315381014471231_n.jpg?_nc_ht=instagram.fdac31-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=4bcIfMU5zFEAX_DBX_n&edm=AP_V10EBAAAA&ccb=7-4&oh=6bf5e153adb5c9c8dcab8825fb20abcd&oe=61A4DDAC&_nc_sid=4f375e" width="300em" align="right"/>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;JavaScript%20React.Js;Md%20Rakibul%20Islam%20Akash&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/arakibulislam/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23CF690E&size=30&center=true&vCenter=true&width=200&height=30&lines=Web+Developer;Rakibul+Islam+Akash)](https://git.io/typing-svg"></a>
 </p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23CF690E&size=30&center=true&vCenter=true&width=200&height=30&lines=Web+Developer;Rakibul+Islam+Akash)](https://git.io/typing-svg)
 <hr/>
