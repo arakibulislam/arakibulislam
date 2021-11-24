@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Akash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Akash -->
-<img alt="Night Coding" src="https://scontent.fdac31-1.fna.fbcdn.net/v/t1.6435-9/118694166_3395901733786411_1337168355027564732_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_ohc=DnXITGXt95kAX8oJ0yY&_nc_ht=scontent.fdac31-1.fna&oh=0bd3d124896320c16f05ce0829f6280e&oe=61C528EC" width="200" align="right"/>
+<img alt="Night Coding" src="https://scontent.fdac31-1.fna.fbcdn.net/v/t1.6435-9/118694166_3395901733786411_1337168355027564732_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_ohc=DnXITGXt95kAX8oJ0yY&_nc_ht=scontent.fdac31-1.fna&oh=0bd3d124896320c16f05ce0829f6280e&oe=61C528EC" width="160em" align="right"/>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;JavaScript%20React.Js;Md%20Rakibul%20Islam%20Akash&center=true&width=500&height=50&font=georgia"></a>
 </p>
