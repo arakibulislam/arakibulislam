@@ -2,8 +2,7 @@
 <h1 align="center">Hi , I'm Akash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Akash -->
-
-<div>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;JavaScript%20React.Js;Md%20Rakibul%20Islam%20Akash&center=true&width=500&height=50&font=georgia"></a>
 </p>
@@ -17,7 +16,6 @@
 <a href="https://github.com/arakibulislam"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arakibulislam&label=Akash's%20Profile%20Views%20&color=dc143c&style=plastic" alt="arakibulislam" /> </p>
-</div><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## 🛠️ My Skills
 
