@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm Akash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left">Hi , I'm Akash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Akash -->
 <img alt="Avatar" src="https://instagram.fdac31-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p750x750/80650065_168451210915450_4172315381014471231_n.jpg?_nc_ht=instagram.fdac31-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=4bcIfMU5zFEAX_DBX_n&edm=AP_V10EBAAAA&ccb=7-4&oh=6bf5e153adb5c9c8dcab8825fb20abcd&oe=61A4DDAC&_nc_sid=4f375e" width="300em" align="right"/>
