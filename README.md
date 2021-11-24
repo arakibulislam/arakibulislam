@@ -62,13 +62,13 @@
 <p align="center">
 <a href="https://github.com/arakibulislam">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arakibulislam&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arakibulislam&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arakibulislam&layout=compact&langs_count=8&theme=graywhite"/>
 </a>
 </p>
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arakibulislam&theme=algolia" alt="arakibulislam" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arakibulislam&theme=graywhite" alt="arakibulislam" /></p>
 
 
 
