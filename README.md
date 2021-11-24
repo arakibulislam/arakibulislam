@@ -4,7 +4,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Akash -->
 
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;JavaScript%20React.Js;Md%20Rakibul%20Islam%20Akash=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;JavaScript%20React.Js;Md%20Rakibul%20Islam%20Akash&center=true&width=500&height=50&font=georgia"></a>
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
