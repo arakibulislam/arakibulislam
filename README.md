@@ -11,10 +11,6 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arakibulislam&label=Akash's%20Profile%20Views%20&color=dc143c&style=plastic" alt="arakibulislam" /> </p>
 
-## 🔥 Streak Stats
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arakibulislam&theme=algolia" alt="arakibulislam" /></p>
-
 ## 🛠️ My Skills
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -63,7 +59,9 @@
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arakibulislam&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+## 🔥 Streak Stats
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arakibulislam&theme=algolia" alt="arakibulislam" /></p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
