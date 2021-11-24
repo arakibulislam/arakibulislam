@@ -59,8 +59,8 @@
 
 <p align="center">
 <a href="https://github.com/arakibulislam">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arakibulislam&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arakibulislam&layout=compact&langs_count=8&theme=swift"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arakibulislam&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arakibulislam&layout=compact&langs_count=8&theme=calm"/>
 </a>
 </p>
 
