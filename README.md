@@ -6,6 +6,7 @@
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;JavaScript%20React.Js;Md%20Rakibul%20Islam%20Akash&center=true&width=500&height=50&font=georgia"></a>
 </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23CF690E&size=30&center=true&vCenter=true&width=200&height=30&lines=Web+Developer;Rakibul+Islam+Akash)](https://git.io/typing-svg)
 <hr/>
 <h4 align="center">I am a Junior front-end Web Developer. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
